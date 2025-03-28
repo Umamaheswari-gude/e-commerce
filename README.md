@@ -25,3 +25,5 @@ E-Commerce store is a platform for online shopping with seamless checkout and us
      - `npm install`  
    - To start the project
       - `npm start`
+# GitHub link:
+   - https://github.com/Umamaheswari-gude
