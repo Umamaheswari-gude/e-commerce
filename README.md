@@ -3,8 +3,9 @@ E-Commerce store is a platform for online shopping with seamless checkout and us
 ## Table of contents
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Project installation & Setup guide](#project-installation&setup-guide)
+- [Project installation and Setup guide](#project-installation-and-setup-guide)
 - [GitHub Link](#github-link)
+- [Connect with us](#connect-with-us)
 - [License](#license)
 
 ## Features: 
@@ -27,13 +28,28 @@ E-Commerce store is a platform for online shopping with seamless checkout and us
   - Node & ExpressJS
 - **Database**  
   - MySQL
-## Project installation & Setup guide 
+## Project installation and Setup guide 
    - To install dependencies  
      - `npm install`  
    - To start the project
       - `npm start`
 ## GitHub link:
    - https://github.com/Umamaheswari-gude
+## Connect with us
+
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to us!
+
 ## License
 The MIT License (MIT)
 
