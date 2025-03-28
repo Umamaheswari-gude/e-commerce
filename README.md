@@ -4,7 +4,7 @@ E-Commerce store is a platform for online shopping with seamless checkout and us
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Project installation & Setup guide](#project-installation&setup-guide)
-- [GitHub Link](github-link)
+- [GitHub Link](#github-link)
 - [License](#license)
 
 ## Features: 
